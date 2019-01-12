@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "YmJkM2QwZWI3NmFmYzc3NzViYWE1YWJjOGY3ZDViNjRlZjdmZDEzZDcwNjY1MmE2ZDg0ZGU3YTYwNjE4NjY4ZjYyYTk2YjE0ZmYwZTkxYTY3ODE0MDQyOGNmNDIwNTNmZjU4OTU5MzM0OTQzNTc4NGY3YzNhNDg5NzNmMTQ1ZjM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "robekson",
+  "repository-name": "jhipster-sample-application1"
+}
